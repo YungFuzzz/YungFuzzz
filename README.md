@@ -1,4 +1,5 @@
 - 👋 Hi i'm YungFuzzz!
 - 📘 I'm currently in college to become a teacher.
 - ⌨️ Programing was always something that peaked my interest.
-- 🧠 On my way to learn this on my own.
+- 🧠 On my way to become a full-stack web developer.
+- 📍 Currently busy learning HTML5
